@@ -1,6 +1,8 @@
-A fully functional Django application for creating, managing, and joining study rooms - enhance your learning experience!
+
 
 # Study Room Django App
+
+A fully functional Django application for creating, managing, and joining study rooms - enhance your learning experience!
 
 This is a Django web application that allows users to create, manage, and join study rooms.
 
